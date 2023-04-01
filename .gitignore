@@ -1,0 +1,13 @@
+# Ignore specific files that are created by the script's / modules
+
+## checks
+checks/*
+tmp/*
+
+# C
+src/out
+libs/
+
+# Symlinks
+UFO
+
